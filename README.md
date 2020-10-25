@@ -1,5 +1,5 @@
 # Real-Estate-Data-Ideas
-An attempt to organize an on going brainstorm of ideas regarding real estate analytics
+An attempt to organize an ongoing brainstorm of ideas regarding real estate analytics
 
 Big data tools for accessing state and local markets.  
 Statistics and trends country(worldwide?) with subset capability in to state, city/county, zip codes, neighborhoods, etc.
