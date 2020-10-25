@@ -40,4 +40,4 @@ Note: allow clients to dial in their risk tolerance based on changing prediction
 *Broker Remarks (ways to quantify these results coming...)*
 Brokers are in the trenches and very much like to borrow language to use in their comments. Analyzing changes in Broker Remarks shouldn't be overlooked.  
 ### Can you tell which is Pre-Covid and which is Post_Covid?
-![Denver 80207 Broker Remarks]()
+![Denver 80207 Broker Remarks](covid.png)
